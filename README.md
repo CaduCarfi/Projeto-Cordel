@@ -28,3 +28,5 @@ O objetivo deste projeto é explorar a técnica de **parallax scrolling** e apli
 - [Cordel Moderno - Milton Duarte](https://www.recantodasletras.com.br/cordel/5622882)
 - [Efeito Parallax com CSS e JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Scroll_Snap/Implementing_parallax_effects)
 - [Curso em Video]((https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-3-de-5-40-horas/))
+
+# 🔗 LINK DO PROJETO https://caducarfi.github.io/Projeto-Cordel/
